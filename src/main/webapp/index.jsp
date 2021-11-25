@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Bye World!</title>
 </head>
 <body>
 	<h1>Bye World!</h1>
